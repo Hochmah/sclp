@@ -1,0 +1,9 @@
+{
+  "Forms.Membership.Login.FormTitle": "Willkommen zu System Concepts",
+  "Forms.Membership.ResetPassword.EmailSubject": "Reset Your System Concepts Password",
+  "Forms.Membership.SignUp.ActivateEmailSubject": "Activate Your System Concepts Account",
+  "Forms.Membership.SignUp.FormTitle": "Sign up for System Concepts",
+  "Navigation.SiteTitle": "System Concepts",
+  "Site.Dashboard.ContentDescription": "System Concepts",
+  "Site.Layout.FooterInfo": "System Concepts Plataform"
+}
